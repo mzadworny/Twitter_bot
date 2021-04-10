@@ -7,3 +7,5 @@ api = twitter.Api(consumer_key='-',
 
 status = api.PostUpdate('Ten post został utworzony za pomocą aplikacji napisanej w języku Python!')
 print(status.text)
+
+#testuje git
