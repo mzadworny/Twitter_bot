@@ -13,5 +13,9 @@ print(status.text)
 #Executing this file after providing your access tokens will push the string as your status update on Twitter!
 
 #Now it works?
+<<<<<<< HEAD
 #Test
+=======
+#Last one
+>>>>>>> 04579010f8433216bac39ad43e3ea114f2e96bd5
 
