@@ -1,5 +1,7 @@
 import twitter
 
+#You can add your access tokens from Twitter.
+
 api = twitter.Api(consumer_key='-',
                   consumer_secret='-',
                   access_token_key='-',
@@ -8,5 +10,7 @@ api = twitter.Api(consumer_key='-',
 status = api.PostUpdate('Ten post został utworzony za pomocą aplikacji napisanej w języku Python!')
 print(status.text)
 
-#testuje git
-#no to teraz kolejny test
+#Executing this file after providing your access tokens will push the string as your status update on Twitter!
+
+
+
