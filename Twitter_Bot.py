@@ -9,3 +9,4 @@ status = api.PostUpdate('Ten post został utworzony za pomocą aplikacji napisan
 print(status.text)
 
 #testuje git
+#no to teraz kolejny test
